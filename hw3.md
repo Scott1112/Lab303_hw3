@@ -66,4 +66,4 @@ o. 180度烤20-25分鐘
 ```
 ![alt 文字](https://cookpad.com/tw/step_attachment/images/0ca69704750f7675 "Logo 標題文字 1")
 
-![alt 文字](https://cookpad.com/tw/step_attachment/images/d1271a0fe91353af "Logo 標題文字 1")
+![alt 文字](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "Logo 標題文字 1")
