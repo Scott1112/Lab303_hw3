@@ -58,12 +58,9 @@ k. 工作桌上灑上少許手粉，把麵團擀平，呈長方型狀，約1.5�
  
 l. 將兩側的麵團折至中心再從接口處換個方向擀平，重複三次
 
-m.最終麵團變成1.5-2公分厚的高度，切割成自己需要的形狀
+m. 最終麵團變成1.5-2公分厚的高度，切割成自己需要的形狀
 
-n.把牛奶蛋液取出，刷再司康的表面，送入烤箱
+n. 把牛奶蛋液取出，刷再司康的表面，送入烤箱
 
 o. 180度烤20-25分鐘
 ```
-![alt 文字](https://cookpad.com/tw/step_attachment/images/0ca69704750f7675 "Logo 標題文字 1")
-
-![alt 文字](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "Logo 標題文字 1")
