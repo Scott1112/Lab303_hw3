@@ -88,6 +88,9 @@ s. 烤箱進行烘烤時請務必全程陪伴顧爐觀察爐內狀況調整
 才能呈現美好的成品喔
 ```
 ![alt 文字](https://imageproxy.icook.network/resize?background=255%2C255%2C255&height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Fstep%2Fcover%2F1868539%2Fadfb0505001bee05.jpg&width=800 "Logo 標題文字 1")
+
+出處：[蔓越莓司康(icook)](https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/14990612-%E4%BC%AF%E7%88%B5%E5%8F%B8%E5%BA%B7?ref=search&search_term=%E5%8F%B8%E5%BA%B7)
+
 >>>>>>> icook
 
 >>>>>>> cookpad
@@ -142,4 +145,5 @@ n. 把牛奶蛋液取出，刷再司康的表面，送入烤箱
 
 o. 180度烤20-25分鐘
 ```
+出處：[伯爵司康(icook)](https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/14990612-%E4%BC%AF%E7%88%B5%E5%8F%B8%E5%BA%B7?ref=search&search_term=%E5%8F%B8%E5%BA%B7)
 >>>>>>> cookpad
